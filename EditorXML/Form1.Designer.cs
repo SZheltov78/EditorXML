@@ -1,6 +1,6 @@
 ﻿namespace EditorXML
 {
-    partial class Form1
+    partial class EditorXML
     {
         /// <summary>
         /// Обязательная переменная конструктора.

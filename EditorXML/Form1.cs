@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EditorXML
 {
-    public partial class Form1 : Form
+    public partial class EditorXML : Form
     {
-        public Form1()
+        public EditorXML()
         {
             InitializeComponent();
         }
